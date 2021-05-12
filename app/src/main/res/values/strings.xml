@@ -1,0 +1,129 @@
+<resources>
+    <string name="app_name">Flux</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="main">sign_in</string>
+    <string name="trigram">☰</string>
+    <string name="sign_in"></string>
+    <string name="register">Register</string>
+    <string name="search">Search</string>
+    <string name="init_symbol">▼</string>
+    <string name="after_symbol">▲</string>
+    <string name="men">Men ▼</string>
+    <string name="men_triangle_up">Men ▲</string>
+    <string name="women_triangle_up">Women ▲</string>
+    <string name="children_triangle_up">Children ▲</string>
+    <string name="sort_triangle_up">Sort by ▲</string>
+    <string name="women">Women ▼</string>
+    <string name="children">Children ▼</string>
+    <string name="triangle_down">▼</string>
+    <string name="sort_by">Sort by ▼</string>
+    <string name="t_shirt">T Shirt</string>
+    <string name="under_wear">under wear</string>
+    <string name="jeans">Jeans</string>
+    <string name="misc">Misc</string>
+
+    <string name="man">Man</string>
+    <string name="woman">Woman</string>
+    <string name="wheelchair">Wheelchair</string>
+    <string name="q_mark">\?</string>
+    <string name="menu">☰</string>
+    <string name="menu_option_vertical">⋮</string>
+    <string name="login_item">Login</string>
+    <string name="sign_in_item">Register</string>
+    <string name="setting_item">Setting</string>
+    <string name="help_item">Sign Out</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="registerChange">Peddler</string>
+    <string name="loginOnchangeText">Peddler</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="button">Button</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="about_message">
+                                                                            "\n"
+                "                 Edition              Peddler VS              \n"
+                "                 Version              1.0 \n"
+                "                 Installed on       20/05/29                 \n"
+                "                         \""
+
+    </string>
+
+    <string name="attempts_left">Attempts Left:</string>
+    <string name="cancel">Cancel</string>
+    <string name="first_name">First name</string>
+    <string name="sure_name">Sure name</string>
+
+    <string name="date_of_birth">Date Of Birth</string>
+    <string name="title_activity_login2">Sign in</string>
+    <string name="_1995">1995</string>
+    <string name="_30">30</string>
+    <string name="_05">05</string>
+    <string name="join">Join</string>
+    <string name="title_activity_settings2">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="traffic">Traffic</string>
+    <string name="traffic_img">traffic_img</string>
+
+    <string name="about">About</string>
+    <string name="message">\"You can later change who can see the gender in your profile. If you want to \" +                 \"specify a different gender, or if you do not want to enter a gender, you can select the custom option.\"</string>
+    <string name="in_and_out">In and out</string>
+    <string name="todo">TODO</string>
+    <string name="name_on_the_card">Name on the card</string>
+    <string name="card_number">Card number</string>
+    <string name="pay">PAY</string>
+    <string name="address">address</string>
+    <string name="state">state</string>
+    <string name="post_code">Post code</string>
+    <string name="country">Country</string>
+    <string name="cv">CV</string>
+    <string name="vis">visa</string>
+    <string name="v">v</string>
+    <string name="remember_card_details">Remember card details</string>
+    <string name="order_in_process">
+        Order Submitted - "Placed" Once you have placed your order on FLEX and your credit card has been authorized,
+        your order status will appear as "Placed."Order Processing - "In Progress"
+        Once you have placed your order, it will be sent to our warehouse to be processed and
+        packed for shipment. During this time, your order status will appear as "In Progress."
+        Please allow 1 - 2 business days for the order to be processed and prepared for shipment.
+        Once the order enters the "In Progress" status, no changes, or cancellations of your order can be made.</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="thank_for_purchasing">Processing Order</string>
+    <string name="check_out">Check Out</string>
+    <string name="completed">completed</string>
+    <string name="main_button">Home Page</string>
+    <string name="track_package">Track package</string>
+    <string name="NS">Y36638747878382993FSDJLKMDS</string>
+    <string name="track">Track</string>
+    <string name="order_list">Order List</string>
+    <string name="sign_up_or_register">Sign Up Or Register</string>
+</resources>

@@ -1,0 +1,30 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.flux.MainActivity"
+    >
+
+
+
+    <item
+        android:id="@+id/item_menu"
+        android:orderInCategory="100"
+        android:title="@string/trigram"
+        app:showAsAction="ifRoom"  >
+
+
+        <menu >
+            <item android:title="@string/sign_in" android:id="@+id/sign_in"/>
+            <item android:title="@string/register" android:id="@+id/register"/>
+            <item android:title="@string/help_item" android:id="@+id/help_item" android:tooltipText="Logout"/>
+            <item
+                android:id="@+id/about_item"
+                android:actionLayout="@layout/activity_profile"
+                android:title="@string/about"
+                app:showAsAction="never"
+
+
+                />
+        </menu>
+    </item>
+</menu>
